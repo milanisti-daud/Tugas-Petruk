@@ -37,4 +37,4 @@ void hasil (int *n){
    }
 
    cout << "\nNilai terbesar adalah : " << max << endl;
-   cout << "Nilai terkecil adalah : " << min << end;
+   cout << "Nilai terkecil adalah : " << min << endl;
