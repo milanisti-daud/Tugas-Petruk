@@ -17,5 +17,5 @@ int main (){
 }
 
 void masukan (int *n){
-   int i;
+   int n;
    
