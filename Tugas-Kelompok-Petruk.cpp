@@ -25,7 +25,7 @@ void masukan (int *n){
 }
 
 void hasil (int *n){
-   int i, max, min = 99999;
+   int i, max, min = 9999999;
    max = A[0];
    for (i = 0; i < *n; i++){
        if (max < A[i]){
