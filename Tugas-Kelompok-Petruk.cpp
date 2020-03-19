@@ -34,4 +34,4 @@ void hasil (int *n){
        else if (min > A[i]){
            min = A[i];
        }
-   }
+   
