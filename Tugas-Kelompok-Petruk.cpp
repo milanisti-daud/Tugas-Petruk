@@ -13,3 +13,6 @@ int main (){
    masukan (&n);
    hasil (&n);
 
+   return 0;
+}
+
