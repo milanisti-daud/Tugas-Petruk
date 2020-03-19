@@ -18,4 +18,4 @@ int main (){
 
 void masukan (int *n){
    int i;
-   
+   for (i = 0; i < *n; i++){
