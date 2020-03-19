@@ -22,3 +22,4 @@ void masukan (int *n){
       cout << "Masukan angka ke " << i + 1 << " : ";
       cin >> A[i];
     }
+   }
