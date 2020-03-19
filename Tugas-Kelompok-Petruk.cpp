@@ -8,3 +8,5 @@ void hasil (int *);
 
 int main (){
    int n;
+   cout << "Jumlah angka yang ingin di input : ";
+   
