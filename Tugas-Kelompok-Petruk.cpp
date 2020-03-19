@@ -28,6 +28,6 @@ void hasil (int *n){
    int i, max, min;
    max = A[0];
    for (i = 0; i < *n; i++){
-       
-
+       if (max < A[i]){
+           max = A[i];
    
