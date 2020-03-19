@@ -17,17 +17,16 @@ int main (){
 }
 
 void masukan (int *n){
-   int i;
-   for (i = 0; i < *n; i++){
+   for (int i = 0; i < *n; i++){
       cout << "Masukan angka ke " << i + 1 << " : ";
       cin >> A[i];
    }
 }
 
 void hasil (int *n){
-   int i, max, min = 9999999;
+   int max, min;
    max = A[0];
-   for (i = 0; i < *n; i++){
+   for (int i = 0; i < *n; i++){
        if (max < A[i]){
            max = A[i];
        }
