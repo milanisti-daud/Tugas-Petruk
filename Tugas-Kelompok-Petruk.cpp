@@ -5,3 +5,6 @@ int A[100];
 
 void masukan (int *);
 void hasil (int *);
+
+int main (){
+  
