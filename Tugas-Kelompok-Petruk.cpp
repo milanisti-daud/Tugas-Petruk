@@ -21,5 +21,7 @@ void masukan (int *n){
    for (i = 0; i < *n; i++){
       cout << "Masukan angka ke " << i + 1 << " : ";
       cin >> A[i];
-    }
    }
+}
+
+void hasil (int *n){
