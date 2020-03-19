@@ -31,4 +31,5 @@ void hasil (int *n){
        if (max < A[i]){
            max = A[i];
        }
- 
+       else if (min > A[i]){
+           min
