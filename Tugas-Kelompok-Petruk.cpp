@@ -11,3 +11,5 @@ int main (){
    cout << "Jumlah angka yang ingin di input : ";
    cin >> n;
    masukan (&n);
+   hasil (&n);
+
