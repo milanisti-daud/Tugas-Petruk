@@ -34,4 +34,6 @@ void hasil (int *n){
        else if (min > A[i]){
            min = A[i];
        }
-   
+   }
+
+   cout << "\nNilai terbesar adalah : " << max << endl;
