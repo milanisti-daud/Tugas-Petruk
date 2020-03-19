@@ -26,5 +26,7 @@ void masukan (int *n){
 
 void hasil (int *n){
    int i, max, min;
-   
+
+   max = A[0];
+
    
