@@ -16,3 +16,4 @@ int main (){
    return 0;
 }
 
+void masukan (int *n){
