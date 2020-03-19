@@ -30,4 +30,5 @@ void hasil (int *n){
    for (i = 0; i < *n; i++){
        if (max < A[i]){
            max = A[i];
-   
+       }
+ 
