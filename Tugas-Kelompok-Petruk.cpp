@@ -10,4 +10,4 @@ int main (){
    int n;
    cout << "Jumlah angka yang ingin di input : ";
    cin >> n;
-   
+   masukan (&n);
