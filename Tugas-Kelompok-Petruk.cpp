@@ -7,4 +7,4 @@ void masukan (int *);
 void hasil (int *);
 
 int main (){
-  
+   int n;
