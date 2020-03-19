@@ -32,4 +32,4 @@ void hasil (int *n){
            max = A[i];
        }
        else if (min > A[i]){
-           min
+           min = 
